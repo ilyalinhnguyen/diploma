@@ -1,7 +1,5 @@
 # Checkpoint 2
 
-Background literature for applying LLMs to security testing with comparative evaluation against SAST, focused on **vulnerability detection in CI/CD pipeline configurations** (primarily GitHub Actions YAML).
-
 ---
 
 ## Surveys and taxonomies
